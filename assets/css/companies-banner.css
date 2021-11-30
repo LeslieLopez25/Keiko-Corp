@@ -55,7 +55,7 @@
 }
 
 /* Making the logos responsive  */
-.company-logo+.company-logo {
+.company-logo + .company-logo {
   margin-left: 3vw;
 }
 
